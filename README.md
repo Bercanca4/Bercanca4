@@ -1,2 +1,2 @@
 # Bercan Çalı
-## Hi everyone i'm beco. I've been working as a frontend developer for a while. I use  React & Tailwind Css
+## Herkese merhaba ben Bercan. Front end alanında çalışıyorum. Öğrenci ve işçiyim. HTML, CSS, JS ve React Framework'ü ile projeler geliştirmekteyim. Güncel olarak projelerimi yayınlamaya başladım. Her geçen gün kendimi geliştirmek için çalışıyorum. Sırada Next.js Framework'ü var. Daha fazlası için proje kodlarıma göz atabilirsiniz. 
