@@ -5,4 +5,4 @@ HTML, CSS, JavaScript ve React Framework'ü üzerindeki uzmanlığımı kullanar
 
 Şu anda üzerinde çalıştığım bir sonraki adım, Next.js Framework'ü. Bu framework'ü öğrenerek, tecrübelerimi daha da zenginleştirmeyi hedefliyorum. Kodlarımı inceleyerek, benimle ilgili daha fazla bilgi edinebilirsiniz.
 
-Her zaman öğrenmeye ve keşfetmeye açık olan birisiyim. Sizinle daha fazla projede bir araya gelmek için sabırsızlanıyorum!
+Her zaman öğrenmeye ve keşfetmeye açık olan birisiyim. 
